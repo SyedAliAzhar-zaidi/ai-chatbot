@@ -1,2 +1,15 @@
-# ai-chatbot
-Simple rule-based AI chatbot built in Python using keyword detection and response mapping
+# AI Chatbot
+
+## Overview
+A simple rule-based chatbot built in Python that responds to user inputs using keyword detection.
+
+## Features
+- Responds to greetings
+- Handles simple questions
+- Exit command to stop chat
+
+## Tech Used
+- Python
+
+## How to Run
+python chatbot.py
